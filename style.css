@@ -1,0 +1,49 @@
+
+div {
+    display: block;
+    width: 100%;
+  }
+
+  p {
+    font-size: 2em;
+    color: green;
+  }
+
+  .fatada {
+    float: left;
+    background-color: antiquewhite;
+    border-radius: 20px;
+  }
+
+  .fatada2 {
+    float: right;
+    background-color: antiquewhite;
+    border-radius: 20px;
+  }
+
+  img {
+    float: left;
+    border-radius: 30px;
+  }
+
+  footer {
+    color: green;
+    clear: both;
+    font-size: 6rem;
+    text-align: center;
+    background-color: antiquewhite;
+  }
+
+  a {
+    color: green;
+    font-size: 6rem;
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 30px;
+  }
+  
+  h2 {
+    color: green;
+    text-align: center;
+  }
+  
