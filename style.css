@@ -48,7 +48,6 @@ div {
   }
   
   .button-link {
-    margin-left:40;
     display: inline-block; /* Permite să adaugi padding și alte stiluri */
     padding: 10px 20px; /* Spațiu interior */
     background-color: burlywood; /* Culoare de fundal */
@@ -61,5 +60,6 @@ div {
   }
   
   .button-link:hover {
-    background-color: #0056b3; /* Culoare de fundal la hover */
+    background-color: red; /* Culoare de fundal la hover */
   }
+  
